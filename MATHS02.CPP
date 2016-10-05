@@ -1,3 +1,5 @@
+/* Program To draw Mathematic curves
+For More Details : https://github.com/anoopknr/-TURBO-C-GUI/ */
 #include<stdio.h>
 #include<graphics.h>
 #include<math.h>
