@@ -1,3 +1,5 @@
+/* Program To Demonstrate Pencil tool
+For More Details : https://github.com/anoopknr/-TURBO-C-GUI/ */
 #include<dos.h>
 #include<graphics.h>
 #include<conio.h>
